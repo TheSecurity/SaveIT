@@ -22,3 +22,11 @@ SaveIT is an application that
 3. Upload save
 
 *All above features are included in the SaveIT app.*
+
+## Contributors
+
+<a href="https://github.com/TerrestrialSoft/SaveIT/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TerrestrialSoft/SaveIT" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
